@@ -24,7 +24,7 @@
 <body>
 
   <h1>Privacy Policy</h1>
-  <p class="effective">Effective Date: August 12, 2026</p>
+  <p class="effective">Effective Date: August 26, 2026</p>
 
   <p>This Privacy Policy explains how LaryVocab ("we," "our," or "us") collects, uses, and protects your information when you use our iOS application.</p>
 
@@ -33,12 +33,13 @@
   <h2>1. Data We Collect</h2>
   <p>We collect the following information to provide and improve the app:</p>
   <ul>
-    <li><strong>Account information:</strong> your email address and password if you sign up with email, or your name and email provided by Apple if you use Sign in with Apple.</li>
+    <li><strong>Account information:</strong> your email address and authentication credentials if you sign up with email, or your name and email provided by Apple if you use Sign in with Apple. You can also use the app with an anonymous account identifier.</li>
     <li><strong>Learning data:</strong> the words you study, quiz scores, streaks, accuracy, favorites, and bookmarks. This powers spaced repetition and progress tracking.</li>
     <li><strong>Subscription status:</strong> whether you have an active Pro subscription.</li>
-    <li><strong>Push notification token:</strong> if you grant permission, we store a token to send streak reminders.</li>
-    <li><strong>Product analytics:</strong> limited events about onboarding, practice sessions, subscription screens, and notification interactions. These events may include your internal app user ID, selected learning level, primary learning goal, preferred practice game, app version, and whether the app is a development or production build.</li>
-    <li><strong>Device information:</strong> device model, iOS version, and language settings, collected automatically to ensure app compatibility.</li>
+    <li><strong>Feedback:</strong> messages and related word or game context that you deliberately send through the feedback form.</li>
+    <li><strong>Local reminders:</strong> streak reminders are scheduled locally on your device after you grant notification permission. We do not store a push notification token for these reminders.</li>
+    <li><strong>Development analytics:</strong> limited product events can be enabled in internal development builds to test onboarding and practice flows. Product analytics are disabled in production App Store builds.</li>
+    <li><strong>Operational device information:</strong> our service providers may process limited app, device, and operating-system information needed for compatibility, subscription verification, security, and diagnostics.</li>
     <li><strong>Crash logs:</strong> collected automatically via Apple's diagnostics tools to help us fix bugs.</li>
   </ul>
 
@@ -49,7 +50,7 @@
     <li>Sync your progress across sessions</li>
     <li>Send streak reminder notifications (only if you opt in)</li>
     <li>Manage your subscription</li>
-    <li>Understand where learners complete or leave onboarding and practice flows</li>
+    <li>Review feedback that you choose to submit</li>
     <li>Monitor app performance and diagnose bugs</li>
   </ul>
   <p>We do not use your data for advertising and we do not sell your data to third parties.</p>
@@ -59,7 +60,7 @@
   <ul>
     <li><strong>Supabase</strong> – secure cloud database for storing your account and learning data</li>
     <li><strong>RevenueCat</strong> – subscription and entitlement management</li>
-    <li><strong>PostHog</strong> – privacy-limited product analytics; automatic screen capture, session replay, surveys, and location enrichment are disabled</li>
+    <li><strong>PostHog</strong> – privacy-limited analytics used only in internal development builds; production delivery, automatic capture, session replay, surveys, and location enrichment are disabled</li>
     <li><strong>Apple App Store & Sign in with Apple</strong> – authentication and in-app purchases</li>
     <li><strong>Apple Diagnostics</strong> – crash reporting and device analytics</li>
   </ul>
