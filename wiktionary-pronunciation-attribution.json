@@ -1,0 +1,6679 @@
+{
+  "schemaVersion": 1,
+  "license": "CC-BY-SA-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wiktionary contributors",
+  "modified": true,
+  "notice": "IPA transcriptions are sourced from the linked Wiktionary revisions and are offered under CC BY-SA 4.0. No endorsement is implied.",
+  "entries": [
+    {
+      "title": "access code",
+      "ipa": "/ˈæksɛs kəʊd/",
+      "sources": [
+        {
+          "sourceRevisionId": "92509460",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=access&oldid=92509460"
+        },
+        {
+          "sourceRevisionId": "92369452",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=code&oldid=92369452"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "act",
+      "ipa": "/ækt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92464319",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=act&oldid=92464319"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "address",
+      "ipa": "/əˈdɹɛs/",
+      "sources": [
+        {
+          "sourceRevisionId": "92334633",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=address&oldid=92334633"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "administration",
+      "ipa": "/ədˌmɪn.ɪˈstɹeɪ.ʃən/",
+      "sources": [
+        {
+          "sourceRevisionId": "91943390",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=administration&oldid=91943390"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "affect",
+      "ipa": "/əˈfɛkt/",
+      "sources": [
+        {
+          "sourceRevisionId": "91934568",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=affect&oldid=91934568"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "after all",
+      "ipa": "/ˈɑːftə ɔːl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92548454",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=after&oldid=92548454"
+        },
+        {
+          "sourceRevisionId": "92502279",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=all&oldid=92502279"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "all clear",
+      "ipa": "/ɔːl ˈklɪə/",
+      "sources": [
+        {
+          "sourceRevisionId": "92502279",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=all&oldid=92502279"
+        },
+        {
+          "sourceRevisionId": "92546458",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=clear&oldid=92546458"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "all in all",
+      "ipa": "/ɔːl ən ɔːl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92502279",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=all&oldid=92502279"
+        },
+        {
+          "sourceRevisionId": "92474551",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=in&oldid=92474551"
+        },
+        {
+          "sourceRevisionId": "92502279",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=all&oldid=92502279"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "all over",
+      "ipa": "/ɔːl ˈəʊ̯.və/",
+      "sources": [
+        {
+          "sourceRevisionId": "92502279",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=all&oldid=92502279"
+        },
+        {
+          "sourceRevisionId": "92529393",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=over&oldid=92529393"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "all right",
+      "ipa": "/ˌɔːlˈɹaɪt/",
+      "sources": [
+        {
+          "sourceRevisionId": "91486555",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=all%20right&oldid=91486555"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "all the time",
+      "ipa": "/ɔːl ðə taɪm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92546048",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=all%20the%20time&oldid=92546048"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "all the way",
+      "ipa": "/ɔːl ðə weɪ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92502279",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=all&oldid=92502279"
+        },
+        {
+          "sourceRevisionId": "92515770",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=the&oldid=92515770"
+        },
+        {
+          "sourceRevisionId": "92439803",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=way&oldid=92439803"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "all too",
+      "ipa": "/ɔːl tuː/",
+      "sources": [
+        {
+          "sourceRevisionId": "92502279",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=all&oldid=92502279"
+        },
+        {
+          "sourceRevisionId": "92356002",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=too&oldid=92356002"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "always",
+      "ipa": "/ˈɔːl.weɪz/",
+      "sources": [
+        {
+          "sourceRevisionId": "92315529",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=always&oldid=92315529"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "amount",
+      "ipa": "/əˈmaʊnt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92199292",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=amount&oldid=92199292"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "and so",
+      "ipa": "/ˈænd səʊ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92460051",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=and&oldid=92460051"
+        },
+        {
+          "sourceRevisionId": "92547218",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=so&oldid=92547218"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "and so on",
+      "ipa": "/ˈænd səʊ ɒn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92460051",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=and&oldid=92460051"
+        },
+        {
+          "sourceRevisionId": "92547218",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=so&oldid=92547218"
+        },
+        {
+          "sourceRevisionId": "92529244",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=on&oldid=92529244"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "anger",
+      "ipa": "/ˈæŋɡə/",
+      "sources": [
+        {
+          "sourceRevisionId": "92509491",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=anger&oldid=92509491"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "appreciate",
+      "ipa": "/əˈpɹiː.ʃi.eɪt/",
+      "sources": [
+        {
+          "sourceRevisionId": "91655796",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=appreciate&oldid=91655796"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "around",
+      "ipa": "/əˈɹaʊnd/",
+      "sources": [
+        {
+          "sourceRevisionId": "92534795",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=around&oldid=92534795"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "as it is",
+      "ipa": "/əz ɪt ɪz/",
+      "sources": [
+        {
+          "sourceRevisionId": "92506490",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=as&oldid=92506490"
+        },
+        {
+          "sourceRevisionId": "92546505",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=it&oldid=92546505"
+        },
+        {
+          "sourceRevisionId": "92352718",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=is&oldid=92352718"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "as it were",
+      "ipa": "/əz ɪt wə(ɹ)/",
+      "sources": [
+        {
+          "sourceRevisionId": "92506490",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=as&oldid=92506490"
+        },
+        {
+          "sourceRevisionId": "92546505",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=it&oldid=92546505"
+        },
+        {
+          "sourceRevisionId": "92512371",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=were&oldid=92512371"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "as well",
+      "ipa": "/æzwɛl/",
+      "sources": [
+        {
+          "sourceRevisionId": "90919173",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=as%20well&oldid=90919173"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "ask",
+      "ipa": "/ɑːsk/",
+      "sources": [
+        {
+          "sourceRevisionId": "92367220",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=ask&oldid=92367220"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "at a time",
+      "ipa": "/æt eɪ taɪm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92548293",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=at&oldid=92548293"
+        },
+        {
+          "sourceRevisionId": "92537283",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=a&oldid=92537283"
+        },
+        {
+          "sourceRevisionId": "92514211",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=time&oldid=92514211"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "at all",
+      "ipa": "/æt ɔːl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92548293",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=at&oldid=92548293"
+        },
+        {
+          "sourceRevisionId": "92502279",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=all&oldid=92502279"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "at first",
+      "ipa": "/æt fɜːst/",
+      "sources": [
+        {
+          "sourceRevisionId": "92548293",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=at&oldid=92548293"
+        },
+        {
+          "sourceRevisionId": "92352615",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=first&oldid=92352615"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "at home",
+      "ipa": "/æt həʊm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92548293",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=at&oldid=92548293"
+        },
+        {
+          "sourceRevisionId": "92527337",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=home&oldid=92527337"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "at least",
+      "ipa": "/æt liːst/",
+      "sources": [
+        {
+          "sourceRevisionId": "92548293",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=at&oldid=92548293"
+        },
+        {
+          "sourceRevisionId": "92134853",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=least&oldid=92134853"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "at most",
+      "ipa": "/æt ˈməʊst/",
+      "sources": [
+        {
+          "sourceRevisionId": "92548293",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=at&oldid=92548293"
+        },
+        {
+          "sourceRevisionId": "92352834",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=most&oldid=92352834"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "at the same time",
+      "ipa": "/æt ðə seɪm taɪm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92548293",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=at&oldid=92548293"
+        },
+        {
+          "sourceRevisionId": "92515770",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=the&oldid=92515770"
+        },
+        {
+          "sourceRevisionId": "92539114",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=same&oldid=92539114"
+        },
+        {
+          "sourceRevisionId": "92514211",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=time&oldid=92514211"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "at will",
+      "ipa": "/æt wɪl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92548293",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=at&oldid=92548293"
+        },
+        {
+          "sourceRevisionId": "92349241",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=will&oldid=92349241"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "attention",
+      "ipa": "/əˈtɛn.ʃn̩/",
+      "sources": [
+        {
+          "sourceRevisionId": "91529349",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=attention&oldid=91529349"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "average",
+      "ipa": "/ˈæv.(ə.)ɹɪd͡ʒ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92391973",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=average&oldid=92391973"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "baby",
+      "ipa": "/ˈbeɪ.bi/",
+      "sources": [
+        {
+          "sourceRevisionId": "92512278",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=baby&oldid=92512278"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "baby talk",
+      "ipa": "/ˈbeɪ.bi tɔːk/",
+      "sources": [
+        {
+          "sourceRevisionId": "92512278",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=baby&oldid=92512278"
+        },
+        {
+          "sourceRevisionId": "92058568",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=talk&oldid=92058568"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "back door",
+      "ipa": "/bæk do(ː)ɹ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92549890",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=back&oldid=92549890"
+        },
+        {
+          "sourceRevisionId": "92125304",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=door&oldid=92125304"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "back out",
+      "ipa": "/bæk ˈäʊ̯t/",
+      "sources": [
+        {
+          "sourceRevisionId": "92549890",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=back&oldid=92549890"
+        },
+        {
+          "sourceRevisionId": "92456923",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=out&oldid=92456923"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "back talk",
+      "ipa": "/bæk tɔːk/",
+      "sources": [
+        {
+          "sourceRevisionId": "92549890",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=back&oldid=92549890"
+        },
+        {
+          "sourceRevisionId": "92058568",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=talk&oldid=92058568"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "back up",
+      "ipa": "/bæk ʌp/",
+      "sources": [
+        {
+          "sourceRevisionId": "92549890",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=back&oldid=92549890"
+        },
+        {
+          "sourceRevisionId": "92429014",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=up&oldid=92429014"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "bad blood",
+      "ipa": "/bæd blʌd/",
+      "sources": [
+        {
+          "sourceRevisionId": "92518101",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=bad&oldid=92518101"
+        },
+        {
+          "sourceRevisionId": "92530237",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=blood&oldid=92530237"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "be on",
+      "ipa": "/ˈbiː ɒn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92528729",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=be&oldid=92528729"
+        },
+        {
+          "sourceRevisionId": "92529244",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=on&oldid=92529244"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "beat",
+      "ipa": "/biːt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92528762",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=beat&oldid=92528762"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "bed",
+      "ipa": "/bɛd/",
+      "sources": [
+        {
+          "sourceRevisionId": "92528793",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=bed&oldid=92528793"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "before",
+      "ipa": "/bɪˈfɔː/",
+      "sources": [
+        {
+          "sourceRevisionId": "92528813",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=before&oldid=92528813"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "believe",
+      "ipa": "/bɪˈliːv/",
+      "sources": [
+        {
+          "sourceRevisionId": "92317082",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=believe&oldid=92317082"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "bell",
+      "ipa": "/bɛl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92528835",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=bell&oldid=92528835"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "best man",
+      "ipa": "/bɛst ˈmæn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92356350",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=best&oldid=92356350"
+        },
+        {
+          "sourceRevisionId": "92534311",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=man&oldid=92534311"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "better",
+      "ipa": "/ˈbɛt.ə/",
+      "sources": [
+        {
+          "sourceRevisionId": "92534444",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=better&oldid=92534444"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "between",
+      "ipa": "/bɪˈtwiːn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92354078",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=between&oldid=92354078"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "big money",
+      "ipa": "/bɪɡ ˈmʌn.i/",
+      "sources": [
+        {
+          "sourceRevisionId": "92547456",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=big&oldid=92547456"
+        },
+        {
+          "sourceRevisionId": "92515644",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=money&oldid=92515644"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "black and white",
+      "ipa": "/blæk ˈænd ˈwaɪt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92529179",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=black&oldid=92529179"
+        },
+        {
+          "sourceRevisionId": "92460051",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=and&oldid=92460051"
+        },
+        {
+          "sourceRevisionId": "92548287",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=white&oldid=92548287"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "black book",
+      "ipa": "/blæk bʊk/",
+      "sources": [
+        {
+          "sourceRevisionId": "92529179",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=black&oldid=92529179"
+        },
+        {
+          "sourceRevisionId": "92530670",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=book&oldid=92530670"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "black market",
+      "ipa": "/blæk ˈmɑːkɪt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92529179",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=black&oldid=92529179"
+        },
+        {
+          "sourceRevisionId": "92359799",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=market&oldid=92359799"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "book",
+      "ipa": "/bʊk/",
+      "sources": [
+        {
+          "sourceRevisionId": "92530670",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=book&oldid=92530670"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "bother",
+      "ipa": "/ˈbɔðə(ɹ)/",
+      "sources": [
+        {
+          "sourceRevisionId": "92536497",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=bother&oldid=92536497"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "boy",
+      "ipa": "/bɔɪ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92485010",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=boy&oldid=92485010"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "bread",
+      "ipa": "/brɛd/",
+      "sources": [
+        {
+          "sourceRevisionId": "92538898",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=bread&oldid=92538898"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "bright side",
+      "ipa": "/ˈbɹaɪ̯t ˈsaɪ̯d/",
+      "sources": [
+        {
+          "sourceRevisionId": "92539840",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=bright&oldid=92539840"
+        },
+        {
+          "sourceRevisionId": "92490358",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=side&oldid=92490358"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "broken heart",
+      "ipa": "/ˈbɹəʊ.kn̩ hɑːʔ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92539981",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=broken&oldid=92539981"
+        },
+        {
+          "sourceRevisionId": "92120009",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=heart&oldid=92120009"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "building",
+      "ipa": "/ˈbɪl.dɪŋ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92540199",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=building&oldid=92540199"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "bunch",
+      "ipa": "/bʌntʃ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92540269",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=bunch&oldid=92540269"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "bus",
+      "ipa": "/bʌs/",
+      "sources": [
+        {
+          "sourceRevisionId": "92540346",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=bus&oldid=92540346"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "business",
+      "ipa": "/ˈbɪz.nɪs/",
+      "sources": [
+        {
+          "sourceRevisionId": "92284493",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=business&oldid=92284493"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "business community",
+      "ipa": "/ˈbɪz.nɪs kəˈmjuːnɪ.ti/",
+      "sources": [
+        {
+          "sourceRevisionId": "92284493",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=business&oldid=92284493"
+        },
+        {
+          "sourceRevisionId": "92199803",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=community&oldid=92199803"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "business deal",
+      "ipa": "/ˈbɪz.nɪs ˈdiːl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92284493",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=business&oldid=92284493"
+        },
+        {
+          "sourceRevisionId": "92546131",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=deal&oldid=92546131"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "business life",
+      "ipa": "/ˈbɪz.nɪs ˈlaɪ̯f/",
+      "sources": [
+        {
+          "sourceRevisionId": "92284493",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=business&oldid=92284493"
+        },
+        {
+          "sourceRevisionId": "92496701",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=life&oldid=92496701"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "business news",
+      "ipa": "/ˈbɪz.nɪs njuːz/",
+      "sources": [
+        {
+          "sourceRevisionId": "92284493",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=business&oldid=92284493"
+        },
+        {
+          "sourceRevisionId": "92457775",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=news&oldid=92457775"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "business people",
+      "ipa": "/ˈbɪz.nɪs ˈpi.pəl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92284493",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=business&oldid=92284493"
+        },
+        {
+          "sourceRevisionId": "92423051",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=people&oldid=92423051"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "business school",
+      "ipa": "/ˈbɪz.nɪs skuːl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92284493",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=business&oldid=92284493"
+        },
+        {
+          "sourceRevisionId": "92534680",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=school&oldid=92534680"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "by the way",
+      "ipa": "/baɪ ðə weɪ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92540373",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=by&oldid=92540373"
+        },
+        {
+          "sourceRevisionId": "92515770",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=the&oldid=92515770"
+        },
+        {
+          "sourceRevisionId": "92439803",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=way&oldid=92439803"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "care",
+      "ipa": "/kɛə/",
+      "sources": [
+        {
+          "sourceRevisionId": "92199615",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=care&oldid=92199615"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "career",
+      "ipa": "/kəˈɹɪə/",
+      "sources": [
+        {
+          "sourceRevisionId": "91037259",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=career&oldid=91037259"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "chat",
+      "ipa": "/ˈt͡ʃæt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92536637",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=chat&oldid=92536637"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "check",
+      "ipa": "/t͡ʃɛk/",
+      "sources": [
+        {
+          "sourceRevisionId": "92532218",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=check&oldid=92532218"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "check character",
+      "ipa": "/t͡ʃɛk ˈkæɹ.ɪk.tə/",
+      "sources": [
+        {
+          "sourceRevisionId": "92532218",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=check&oldid=92532218"
+        },
+        {
+          "sourceRevisionId": "92511240",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=character&oldid=92511240"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "check-in",
+      "ipa": "/ˈt͡ʃɛkˌɪn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92482557",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=check-in&oldid=92482557"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "child",
+      "ipa": "/tʃaɪld/",
+      "sources": [
+        {
+          "sourceRevisionId": "92540493",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=child&oldid=92540493"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "child care",
+      "ipa": "/tʃaɪld kɛə/",
+      "sources": [
+        {
+          "sourceRevisionId": "92540493",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=child&oldid=92540493"
+        },
+        {
+          "sourceRevisionId": "92199615",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=care&oldid=92199615"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "claim",
+      "ipa": "/kleɪm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92043948",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=claim&oldid=92043948"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "class",
+      "ipa": "/klɑːs/",
+      "sources": [
+        {
+          "sourceRevisionId": "91845877",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=class&oldid=91845877"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "cold feet",
+      "ipa": "/kəʊld ˈfiːt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92320764",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=cold&oldid=92320764"
+        },
+        {
+          "sourceRevisionId": "91955536",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=feet&oldid=91955536"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "come",
+      "ipa": "/kʌm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92352549",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=come&oldid=92352549"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "come on",
+      "ipa": "/ˌkʌm ˈɒn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92275303",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=come%20on&oldid=92275303"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "come to",
+      "ipa": "/kʌm ˈtu/",
+      "sources": [
+        {
+          "sourceRevisionId": "91812279",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=come%20to&oldid=91812279"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "come up",
+      "ipa": "/kʌm ʌp/",
+      "sources": [
+        {
+          "sourceRevisionId": "92352549",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=come&oldid=92352549"
+        },
+        {
+          "sourceRevisionId": "92429014",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=up&oldid=92429014"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "comedy",
+      "ipa": "/ˈkɒmədi/",
+      "sources": [
+        {
+          "sourceRevisionId": "91322542",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=comedy&oldid=91322542"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "comfort",
+      "ipa": "/ˈkʌm.fət/",
+      "sources": [
+        {
+          "sourceRevisionId": "91932906",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=comfort&oldid=91932906"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "comfortable",
+      "ipa": "/ˈkʌm(p)f.tə.bəl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92132249",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=comfortable&oldid=92132249"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "company",
+      "ipa": "/ˈkʌmp(ə)ni/",
+      "sources": [
+        {
+          "sourceRevisionId": "92320992",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=company&oldid=92320992"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "company name",
+      "ipa": "/ˈkʌmp(ə)ni neɪm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92320992",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=company&oldid=92320992"
+        },
+        {
+          "sourceRevisionId": "92548789",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=name&oldid=92548789"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "computer",
+      "ipa": "/kəmˈpjuː.tə/",
+      "sources": [
+        {
+          "sourceRevisionId": "92503916",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=computer&oldid=92503916"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "computer program",
+      "ipa": "/kəmˈpjuː.tə ˈpɹəʊ̯ˌɡɹæm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92503916",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=computer&oldid=92503916"
+        },
+        {
+          "sourceRevisionId": "92076138",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=program&oldid=92076138"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "computer system",
+      "ipa": "/kəmˈpjuː.tə ˈsɪstəm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92503916",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=computer&oldid=92503916"
+        },
+        {
+          "sourceRevisionId": "92534996",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=system&oldid=92534996"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "conference",
+      "ipa": "/ˈkɒn.f(ə.)ɹəns/",
+      "sources": [
+        {
+          "sourceRevisionId": "91664632",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=conference&oldid=91664632"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "contract",
+      "ipa": "/ˈkɒntɹækt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92068263",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=contract&oldid=92068263"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "control board",
+      "ipa": "/kənˈtɹəʊl bɔːd/",
+      "sources": [
+        {
+          "sourceRevisionId": "92521641",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=control&oldid=92521641"
+        },
+        {
+          "sourceRevisionId": "92282714",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=board&oldid=92282714"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "control key",
+      "ipa": "/kənˈtɹəʊl kiː/",
+      "sources": [
+        {
+          "sourceRevisionId": "92521641",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=control&oldid=92521641"
+        },
+        {
+          "sourceRevisionId": "92522805",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=key&oldid=92522805"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "control operation",
+      "ipa": "/kənˈtɹəʊl ˌɒp.əˈɹeɪ.ʃən/",
+      "sources": [
+        {
+          "sourceRevisionId": "92521641",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=control&oldid=92521641"
+        },
+        {
+          "sourceRevisionId": "92474631",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=operation&oldid=92474631"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "conversation",
+      "ipa": "/ˌkɒn.vəˈseɪ.ʃn̩/",
+      "sources": [
+        {
+          "sourceRevisionId": "92297848",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=conversation&oldid=92297848"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "corner",
+      "ipa": "/ˈkɔːnə(ɹ)/",
+      "sources": [
+        {
+          "sourceRevisionId": "92311636",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=corner&oldid=92311636"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "cost",
+      "ipa": "/kɒst/",
+      "sources": [
+        {
+          "sourceRevisionId": "92093673",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=cost&oldid=92093673"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "course",
+      "ipa": "/kɔːs/",
+      "sources": [
+        {
+          "sourceRevisionId": "92529208",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=course&oldid=92529208"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "court",
+      "ipa": "/ˈkɔːt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92468428",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=court&oldid=92468428"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "crew",
+      "ipa": "/kɹuː/",
+      "sources": [
+        {
+          "sourceRevisionId": "92199331",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=crew&oldid=92199331"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "crowd",
+      "ipa": "/ˈkɹaʊ̯d/",
+      "sources": [
+        {
+          "sourceRevisionId": "92064867",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=crowd&oldid=92064867"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "data link",
+      "ipa": "/ˈdɑːtə ˈlɪŋk/",
+      "sources": [
+        {
+          "sourceRevisionId": "92538756",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=data&oldid=92538756"
+        },
+        {
+          "sourceRevisionId": "92538784",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=link&oldid=92538784"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "day care",
+      "ipa": "/deɪ̯ kɛə/",
+      "sources": [
+        {
+          "sourceRevisionId": "92352567",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=day&oldid=92352567"
+        },
+        {
+          "sourceRevisionId": "92199615",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=care&oldid=92199615"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "deal",
+      "ipa": "/ˈdiːl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92546131",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=deal&oldid=92546131"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "degree program",
+      "ipa": "/dɪˈɡɹiː ˈpɹəʊ̯ˌɡɹæm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92322965",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=degree&oldid=92322965"
+        },
+        {
+          "sourceRevisionId": "92076138",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=program&oldid=92076138"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "desire",
+      "ipa": "/dɪˈzaɪə/",
+      "sources": [
+        {
+          "sourceRevisionId": "92323262",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=desire&oldid=92323262"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "device",
+      "ipa": "/dɪˈvaɪs/",
+      "sources": [
+        {
+          "sourceRevisionId": "92413531",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=device&oldid=92413531"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "direction",
+      "ipa": "/dɪˈɹɛk.ʃən/",
+      "sources": [
+        {
+          "sourceRevisionId": "92505262",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=direction&oldid=92505262"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "do good",
+      "ipa": "/də ɡʊd/",
+      "sources": [
+        {
+          "sourceRevisionId": "92515963",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=do&oldid=92515963"
+        },
+        {
+          "sourceRevisionId": "92549295",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=good&oldid=92549295"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "do up",
+      "ipa": "/də ʌp/",
+      "sources": [
+        {
+          "sourceRevisionId": "92515963",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=do&oldid=92515963"
+        },
+        {
+          "sourceRevisionId": "92429014",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=up&oldid=92429014"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "dog",
+      "ipa": "/dɒɡ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92539838",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=dog&oldid=92539838"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "dude",
+      "ipa": "/duːd/",
+      "sources": [
+        {
+          "sourceRevisionId": "92342292",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=dude&oldid=92342292"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "easy money",
+      "ipa": "/ˈiːzi ˈmʌn.i/",
+      "sources": [
+        {
+          "sourceRevisionId": "92449446",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=easy&oldid=92449446"
+        },
+        {
+          "sourceRevisionId": "92515644",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=money&oldid=92515644"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "education",
+      "ipa": "/ˌɛd͡ʒ.ʊˈkeɪ.ʃən/",
+      "sources": [
+        {
+          "sourceRevisionId": "92456021",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=education&oldid=92456021"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "email",
+      "ipa": "/ˈiːmeɪl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92394045",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=email&oldid=92394045"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "emotional",
+      "ipa": "/ɪˈməʊʃənəl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92483266",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=emotional&oldid=92483266"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "emotional person",
+      "ipa": "/ɪˈməʊʃənəl ˈpɜː.sən/",
+      "sources": [
+        {
+          "sourceRevisionId": "92483266",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=emotional&oldid=92483266"
+        },
+        {
+          "sourceRevisionId": "92540355",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=person&oldid=92540355"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "end point",
+      "ipa": "/ɛnd pɔɪnt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92482675",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=end&oldid=92482675"
+        },
+        {
+          "sourceRevisionId": "92538517",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=point&oldid=92538517"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "enjoy",
+      "ipa": "/ɛnˈd͡ʒɔɪ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92414113",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=enjoy&oldid=92414113"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "entrance",
+      "ipa": "/ˈɛn.tɹəns/",
+      "sources": [
+        {
+          "sourceRevisionId": "91703714",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=entrance&oldid=91703714"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "even",
+      "ipa": "/ˈiːvən/",
+      "sources": [
+        {
+          "sourceRevisionId": "92391710",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=even&oldid=92391710"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "even out",
+      "ipa": "/ˈiːvən ˈäʊ̯t/",
+      "sources": [
+        {
+          "sourceRevisionId": "92391710",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=even&oldid=92391710"
+        },
+        {
+          "sourceRevisionId": "92456923",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=out&oldid=92456923"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "even so",
+      "ipa": "/ˈiːvən səʊ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92391710",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=even&oldid=92391710"
+        },
+        {
+          "sourceRevisionId": "92547218",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=so&oldid=92547218"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "evidence",
+      "ipa": "/ˈɛv.ɪ.dəns/",
+      "sources": [
+        {
+          "sourceRevisionId": "91718057",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=evidence&oldid=91718057"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "example",
+      "ipa": "/ɪɡˈzɑːm.pəl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92371908",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=example&oldid=92371908"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "experience",
+      "ipa": "/ɪkˈspɪə.ɹi.ən(t)s/",
+      "sources": [
+        {
+          "sourceRevisionId": "92507953",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=experience&oldid=92507953"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "face",
+      "ipa": "/ˈfeɪ̯s/",
+      "sources": [
+        {
+          "sourceRevisionId": "92325877",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=face&oldid=92325877"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "face-off",
+      "ipa": "/ˈfeɪsˌɑf/",
+      "sources": [
+        {
+          "sourceRevisionId": "90232962",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=face-off&oldid=90232962"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "fact",
+      "ipa": "/fækt/",
+      "sources": [
+        {
+          "sourceRevisionId": "91314331",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=fact&oldid=91314331"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "family business",
+      "ipa": "/ˈfæm(ɪ)li ˈbɪz.nɪs/",
+      "sources": [
+        {
+          "sourceRevisionId": "92480300",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=family&oldid=92480300"
+        },
+        {
+          "sourceRevisionId": "92284493",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=business&oldid=92284493"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "family man",
+      "ipa": "/ˈfæm(ɪ)li ˈmæn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92480300",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=family&oldid=92480300"
+        },
+        {
+          "sourceRevisionId": "92534311",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=man&oldid=92534311"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "fan",
+      "ipa": "/fæn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92537093",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=fan&oldid=92537093"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "father",
+      "ipa": "/ˈfɑː.ðə/",
+      "sources": [
+        {
+          "sourceRevisionId": "92536505",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=father&oldid=92536505"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "fear",
+      "ipa": "/fɪə/",
+      "sources": [
+        {
+          "sourceRevisionId": "92547659",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=fear&oldid=92547659"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "feelings",
+      "ipa": "/ˈfiː.lɪŋz/",
+      "sources": [
+        {
+          "sourceRevisionId": "89381897",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=feelings&oldid=89381897"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "fellow feeling",
+      "ipa": "/ˈfɛ.ləʊ ˈfiː.lɪŋ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92422658",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=fellow&oldid=92422658"
+        },
+        {
+          "sourceRevisionId": "92203594",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=feeling&oldid=92203594"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "field work",
+      "ipa": "/ˈfi(ː)ld wɜː(ɹ)k/",
+      "sources": [
+        {
+          "sourceRevisionId": "92492365",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=field&oldid=92492365"
+        },
+        {
+          "sourceRevisionId": "92481462",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=work&oldid=92481462"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "fight",
+      "ipa": "/faɪt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92548755",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=fight&oldid=92548755"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "file",
+      "ipa": "/faɪl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92487570",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=file&oldid=92487570"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "find",
+      "ipa": "/ˈfɑjnd/",
+      "sources": [
+        {
+          "sourceRevisionId": "92547030",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=find&oldid=92547030"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "find out",
+      "ipa": "/ˈfɑjnd ˈäʊ̯t/",
+      "sources": [
+        {
+          "sourceRevisionId": "92547030",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=find&oldid=92547030"
+        },
+        {
+          "sourceRevisionId": "92456923",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=out&oldid=92456923"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "fine",
+      "ipa": "/ˈfaɪ̯n/",
+      "sources": [
+        {
+          "sourceRevisionId": "92495908",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=fine&oldid=92495908"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "first of all",
+      "ipa": "/fɜːst ɒv ɔːl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92352615",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=first&oldid=92352615"
+        },
+        {
+          "sourceRevisionId": "92514247",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=of&oldid=92514247"
+        },
+        {
+          "sourceRevisionId": "92502279",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=all&oldid=92502279"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "fix",
+      "ipa": "/fɪks/",
+      "sources": [
+        {
+          "sourceRevisionId": "92296335",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=fix&oldid=92296335"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "fly",
+      "ipa": "/flaɪ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92361572",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=fly&oldid=92361572"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "follow",
+      "ipa": "/ˈfɒləʊ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92327258",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=follow&oldid=92327258"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "food company",
+      "ipa": "/fuːd ˈkʌmp(ə)ni/",
+      "sources": [
+        {
+          "sourceRevisionId": "92494052",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=food&oldid=92494052"
+        },
+        {
+          "sourceRevisionId": "92320992",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=company&oldid=92320992"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "for good",
+      "ipa": "/fə ˈɡʊd/",
+      "sources": [
+        {
+          "sourceRevisionId": "91434603",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=for%20good&oldid=91434603"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "for one",
+      "ipa": "/fɔː wʌn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92515282",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=for&oldid=92515282"
+        },
+        {
+          "sourceRevisionId": "92536722",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=one&oldid=92536722"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "form",
+      "ipa": "/fɔːm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92376021",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=form&oldid=92376021"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "formal",
+      "ipa": "/ˈfɔː.məl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92490658",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=formal&oldid=92490658"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "friend",
+      "ipa": "/fɹɛnd/",
+      "sources": [
+        {
+          "sourceRevisionId": "92327804",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=friend&oldid=92327804"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "from time to time",
+      "ipa": "/ˈfɹɒm taɪm tuː taɪm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92414723",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=from&oldid=92414723"
+        },
+        {
+          "sourceRevisionId": "92514211",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=time&oldid=92514211"
+        },
+        {
+          "sourceRevisionId": "92548455",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=to&oldid=92548455"
+        },
+        {
+          "sourceRevisionId": "92514211",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=time&oldid=92514211"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "full point",
+      "ipa": "/fʊl pɔɪnt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92327925",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=full&oldid=92327925"
+        },
+        {
+          "sourceRevisionId": "92538517",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=point&oldid=92538517"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "gang",
+      "ipa": "/ˈɡæŋ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92501058",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=gang&oldid=92501058"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "get about",
+      "ipa": "/ɡɛt əˈbaʊ̯t/",
+      "sources": [
+        {
+          "sourceRevisionId": "92516197",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=get&oldid=92516197"
+        },
+        {
+          "sourceRevisionId": "92499110",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=about&oldid=92499110"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "get at",
+      "ipa": "/ɡɛt æt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92516197",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=get&oldid=92516197"
+        },
+        {
+          "sourceRevisionId": "92548293",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=at&oldid=92548293"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "get back",
+      "ipa": "/ɡɛt bæk/",
+      "sources": [
+        {
+          "sourceRevisionId": "92516197",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=get&oldid=92516197"
+        },
+        {
+          "sourceRevisionId": "92549890",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=back&oldid=92549890"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "get by",
+      "ipa": "/ɡɛt baɪ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92516197",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=get&oldid=92516197"
+        },
+        {
+          "sourceRevisionId": "92540373",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=by&oldid=92540373"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "get down",
+      "ipa": "/ɡɛt ˈdaʊn/",
+      "sources": [
+        {
+          "sourceRevisionId": "90746495",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=get%20down&oldid=90746495"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "get even",
+      "ipa": "/ɡɛt ˈiːvən/",
+      "sources": [
+        {
+          "sourceRevisionId": "92516197",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=get&oldid=92516197"
+        },
+        {
+          "sourceRevisionId": "92391710",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=even&oldid=92391710"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "get going",
+      "ipa": "/ɡɛt ˈɡəʊ.ɪŋ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92516197",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=get&oldid=92516197"
+        },
+        {
+          "sourceRevisionId": "91401340",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=going&oldid=91401340"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "get in",
+      "ipa": "/ɡɛt ən/",
+      "sources": [
+        {
+          "sourceRevisionId": "92516197",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=get&oldid=92516197"
+        },
+        {
+          "sourceRevisionId": "92474551",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=in&oldid=92474551"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "get into",
+      "ipa": "/ɡɛt ˈɪn.tuː/",
+      "sources": [
+        {
+          "sourceRevisionId": "92516197",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=get&oldid=92516197"
+        },
+        {
+          "sourceRevisionId": "92332697",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=into&oldid=92332697"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "get it",
+      "ipa": "/ɡɛt ɪt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92516197",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=get&oldid=92516197"
+        },
+        {
+          "sourceRevisionId": "92546505",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=it&oldid=92546505"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "get off",
+      "ipa": "/ɡɛt ɒf/",
+      "sources": [
+        {
+          "sourceRevisionId": "92516197",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=get&oldid=92516197"
+        },
+        {
+          "sourceRevisionId": "92449273",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=off&oldid=92449273"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "get on",
+      "ipa": "/ɡɛt ɒn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92516197",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=get&oldid=92516197"
+        },
+        {
+          "sourceRevisionId": "92529244",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=on&oldid=92529244"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "get out",
+      "ipa": "/ɡɛt ˈäʊ̯t/",
+      "sources": [
+        {
+          "sourceRevisionId": "92516197",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=get&oldid=92516197"
+        },
+        {
+          "sourceRevisionId": "92456923",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=out&oldid=92456923"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "get over",
+      "ipa": "/ɡɛt ˈəʊ̯.və/",
+      "sources": [
+        {
+          "sourceRevisionId": "92516197",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=get&oldid=92516197"
+        },
+        {
+          "sourceRevisionId": "92529393",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=over&oldid=92529393"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "get through",
+      "ipa": "/ɡɛt ˈθɹu/",
+      "sources": [
+        {
+          "sourceRevisionId": "92360169",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=get%20through&oldid=92360169"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "get to",
+      "ipa": "/ɡɛt tuː/",
+      "sources": [
+        {
+          "sourceRevisionId": "92516197",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=get&oldid=92516197"
+        },
+        {
+          "sourceRevisionId": "92548455",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=to&oldid=92548455"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "get up",
+      "ipa": "/ɡɛt ʌp/",
+      "sources": [
+        {
+          "sourceRevisionId": "92516197",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=get&oldid=92516197"
+        },
+        {
+          "sourceRevisionId": "92429014",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=up&oldid=92429014"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "girl",
+      "ipa": "/ˈɡɜːl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92546179",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=girl&oldid=92546179"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "given",
+      "ipa": "/ˈɡɪvən/",
+      "sources": [
+        {
+          "sourceRevisionId": "91418336",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=given&oldid=91418336"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "giving up",
+      "ipa": "/ˈɡɪvɪŋ ʌp/",
+      "sources": [
+        {
+          "sourceRevisionId": "91182102",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=giving&oldid=91182102"
+        },
+        {
+          "sourceRevisionId": "92429014",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=up&oldid=92429014"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "glad",
+      "ipa": "/ɡlæd/",
+      "sources": [
+        {
+          "sourceRevisionId": "90895072",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=glad&oldid=90895072"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "go",
+      "ipa": "/ɡəʊ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92452823",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=go&oldid=92452823"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "go about",
+      "ipa": "/ɡəʊ əˈbaʊ̯t/",
+      "sources": [
+        {
+          "sourceRevisionId": "92452823",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=go&oldid=92452823"
+        },
+        {
+          "sourceRevisionId": "92499110",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=about&oldid=92499110"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "go after",
+      "ipa": "/ɡəʊ ˈɑːftə/",
+      "sources": [
+        {
+          "sourceRevisionId": "92452823",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=go&oldid=92452823"
+        },
+        {
+          "sourceRevisionId": "92548454",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=after&oldid=92548454"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "go back",
+      "ipa": "/ɡəʊ bæk/",
+      "sources": [
+        {
+          "sourceRevisionId": "92452823",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=go&oldid=92452823"
+        },
+        {
+          "sourceRevisionId": "92549890",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=back&oldid=92549890"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "go by",
+      "ipa": "/ɡəʊ baɪ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92452823",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=go&oldid=92452823"
+        },
+        {
+          "sourceRevisionId": "92540373",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=by&oldid=92540373"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "go for",
+      "ipa": "/ɡəʊ fɔː/",
+      "sources": [
+        {
+          "sourceRevisionId": "92452823",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=go&oldid=92452823"
+        },
+        {
+          "sourceRevisionId": "92515282",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=for&oldid=92515282"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "go off",
+      "ipa": "/ɡəʊ ɒf/",
+      "sources": [
+        {
+          "sourceRevisionId": "92452823",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=go&oldid=92452823"
+        },
+        {
+          "sourceRevisionId": "92449273",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=off&oldid=92449273"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "go on",
+      "ipa": "/ˈɡoʊˌɒn/",
+      "sources": [
+        {
+          "sourceRevisionId": "90514083",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=go%20on&oldid=90514083"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "go over",
+      "ipa": "/ɡəʊ ˈəʊ̯.və/",
+      "sources": [
+        {
+          "sourceRevisionId": "92452823",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=go&oldid=92452823"
+        },
+        {
+          "sourceRevisionId": "92529393",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=over&oldid=92529393"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "go up",
+      "ipa": "/ɡəʊ ʌp/",
+      "sources": [
+        {
+          "sourceRevisionId": "92452823",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=go&oldid=92452823"
+        },
+        {
+          "sourceRevisionId": "92429014",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=up&oldid=92429014"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "go with",
+      "ipa": "/ɡəʊ wɪð/",
+      "sources": [
+        {
+          "sourceRevisionId": "92452823",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=go&oldid=92452823"
+        },
+        {
+          "sourceRevisionId": "92472041",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=with&oldid=92472041"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "good morning",
+      "ipa": "/ˌɡʊd ˈmɔːnɪŋ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92395724",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=good%20morning&oldid=92395724"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "good night",
+      "ipa": "/ɡʊd ˈnaɪt/",
+      "sources": [
+        {
+          "sourceRevisionId": "91635203",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=good%20night&oldid=91635203"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "good person",
+      "ipa": "/ɡʊd ˈpɜː.sən/",
+      "sources": [
+        {
+          "sourceRevisionId": "92549295",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=good&oldid=92549295"
+        },
+        {
+          "sourceRevisionId": "92540355",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=person&oldid=92540355"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "group",
+      "ipa": "/ɡɹuːp/",
+      "sources": [
+        {
+          "sourceRevisionId": "92324644",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=group&oldid=92324644"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "guess",
+      "ipa": "/ɡɛs/",
+      "sources": [
+        {
+          "sourceRevisionId": "91764536",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=guess&oldid=91764536"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "guy",
+      "ipa": "/ɡaɪ/",
+      "sources": [
+        {
+          "sourceRevisionId": "91941756",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=guy&oldid=91941756"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "hard drive",
+      "ipa": "/hɑːd dɹaɪv/",
+      "sources": [
+        {
+          "sourceRevisionId": "92524219",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=hard&oldid=92524219"
+        },
+        {
+          "sourceRevisionId": "92549342",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=drive&oldid=92549342"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "hard news",
+      "ipa": "/hɑːd njuːz/",
+      "sources": [
+        {
+          "sourceRevisionId": "92524219",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=hard&oldid=92524219"
+        },
+        {
+          "sourceRevisionId": "92457775",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=news&oldid=92457775"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "has-been",
+      "ipa": "/ˈhæz.biːn/",
+      "sources": [
+        {
+          "sourceRevisionId": "91957112",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=has-been&oldid=91957112"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "hate",
+      "ipa": "/heɪt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92330323",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=hate&oldid=92330323"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "have a go",
+      "ipa": "/ˈhæv eɪ ɡəʊ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92528199",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=have&oldid=92528199"
+        },
+        {
+          "sourceRevisionId": "92537283",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=a&oldid=92537283"
+        },
+        {
+          "sourceRevisionId": "92452823",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=go&oldid=92452823"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "have to do with",
+      "ipa": "/ˈhæv tuː də wɪð/",
+      "sources": [
+        {
+          "sourceRevisionId": "92528199",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=have&oldid=92528199"
+        },
+        {
+          "sourceRevisionId": "92548455",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=to&oldid=92548455"
+        },
+        {
+          "sourceRevisionId": "92515963",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=do&oldid=92515963"
+        },
+        {
+          "sourceRevisionId": "92472041",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=with&oldid=92472041"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "head",
+      "ipa": "/hɛd/",
+      "sources": [
+        {
+          "sourceRevisionId": "92503618",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=head&oldid=92503618"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "head word",
+      "ipa": "/hɛd wɜːd/",
+      "sources": [
+        {
+          "sourceRevisionId": "92503618",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=head&oldid=92503618"
+        },
+        {
+          "sourceRevisionId": "92481404",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=word&oldid=92481404"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "health club",
+      "ipa": "/ˈhɛlθ ˌkləb/",
+      "sources": [
+        {
+          "sourceRevisionId": "92053042",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=health%20club&oldid=92053042"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "heart",
+      "ipa": "/hɑːʔ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92120009",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=heart&oldid=92120009"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "high point",
+      "ipa": "/haɪ pɔɪnt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92542104",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=high&oldid=92542104"
+        },
+        {
+          "sourceRevisionId": "92538517",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=point&oldid=92538517"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "high-level language",
+      "ipa": "/ˈhaɪ ˈlɛv.əl ˈlæŋ.ɡwɪd͡ʒ/",
+      "sources": [
+        {
+          "sourceRevisionId": "87388482",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=high-level&oldid=87388482"
+        },
+        {
+          "sourceRevisionId": "92479740",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=language&oldid=92479740"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "home computer",
+      "ipa": "/həʊm kəmˈpjuː.tə/",
+      "sources": [
+        {
+          "sourceRevisionId": "92527337",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=home&oldid=92527337"
+        },
+        {
+          "sourceRevisionId": "92503916",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=computer&oldid=92503916"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "home from home",
+      "ipa": "/həʊm ˈfɹɒm həʊm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92527337",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=home&oldid=92527337"
+        },
+        {
+          "sourceRevisionId": "92414723",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=from&oldid=92414723"
+        },
+        {
+          "sourceRevisionId": "92527337",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=home&oldid=92527337"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "home page",
+      "ipa": "/ˈhəʊmpeɪdʒ/",
+      "sources": [
+        {
+          "sourceRevisionId": "89626415",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=home%20page&oldid=89626415"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "hope",
+      "ipa": "/ˈhəʊp/",
+      "sources": [
+        {
+          "sourceRevisionId": "92203584",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=hope&oldid=92203584"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "horror",
+      "ipa": "/ˈhɒɹə/",
+      "sources": [
+        {
+          "sourceRevisionId": "92415410",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=horror&oldid=92415410"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "hotel",
+      "ipa": "/həʊˈtɛl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92481498",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=hotel&oldid=92481498"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "human right",
+      "ipa": "/ˈhjuː.mən ɹaɪt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92540437",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=human&oldid=92540437"
+        },
+        {
+          "sourceRevisionId": "92121812",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=right&oldid=92121812"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "if not",
+      "ipa": "/ɪf nɒt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92400181",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=if&oldid=92400181"
+        },
+        {
+          "sourceRevisionId": "92537445",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=not&oldid=92537445"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "ill will",
+      "ipa": "/ɪl wɪl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92483213",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=ill&oldid=92483213"
+        },
+        {
+          "sourceRevisionId": "92349241",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=will&oldid=92349241"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "in a way",
+      "ipa": "/ən eɪ weɪ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92474551",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=in&oldid=92474551"
+        },
+        {
+          "sourceRevisionId": "92537283",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=a&oldid=92537283"
+        },
+        {
+          "sourceRevisionId": "92439803",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=way&oldid=92439803"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "in all",
+      "ipa": "/ən ɔːl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92474551",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=in&oldid=92474551"
+        },
+        {
+          "sourceRevisionId": "92502279",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=all&oldid=92502279"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "in good time",
+      "ipa": "/ən ɡʊd taɪm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92474551",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=in&oldid=92474551"
+        },
+        {
+          "sourceRevisionId": "92549295",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=good&oldid=92549295"
+        },
+        {
+          "sourceRevisionId": "92514211",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=time&oldid=92514211"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "in no time",
+      "ipa": "/ən nəʊ taɪm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92474551",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=in&oldid=92474551"
+        },
+        {
+          "sourceRevisionId": "92547706",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=no&oldid=92547706"
+        },
+        {
+          "sourceRevisionId": "92514211",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=time&oldid=92514211"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "in the way",
+      "ipa": "/ən ðə weɪ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92474551",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=in&oldid=92474551"
+        },
+        {
+          "sourceRevisionId": "92515770",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=the&oldid=92515770"
+        },
+        {
+          "sourceRevisionId": "92439803",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=way&oldid=92439803"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "in time",
+      "ipa": "/ən taɪm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92474551",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=in&oldid=92474551"
+        },
+        {
+          "sourceRevisionId": "92514211",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=time&oldid=92514211"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "in-law",
+      "ipa": "/ˈɪn.lɔː/",
+      "sources": [
+        {
+          "sourceRevisionId": "91588701",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=in-law&oldid=91588701"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "information",
+      "ipa": "/ˌɪn.fəˈmeɪ.ʃn̩/",
+      "sources": [
+        {
+          "sourceRevisionId": "92332628",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=information&oldid=92332628"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "information system",
+      "ipa": "/ˌɪn.fəˈmeɪ.ʃn̩ ˈsɪstəm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92332628",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=information&oldid=92332628"
+        },
+        {
+          "sourceRevisionId": "92534996",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=system&oldid=92534996"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "insurance",
+      "ipa": "/ɪnˈʃɔː.ɹəns/",
+      "sources": [
+        {
+          "sourceRevisionId": "92415703",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=insurance&oldid=92415703"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "interest",
+      "ipa": "/ˈɪn.tɹɛst/",
+      "sources": [
+        {
+          "sourceRevisionId": "92080669",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=interest&oldid=92080669"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "internet",
+      "ipa": "/ˈɪn.təˌnɛt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92530269",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=internet&oldid=92530269"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "issue",
+      "ipa": "/ˈɪʃuː/",
+      "sources": [
+        {
+          "sourceRevisionId": "92354370",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=issue&oldid=92354370"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "job",
+      "ipa": "/dʒɒb/",
+      "sources": [
+        {
+          "sourceRevisionId": "92480031",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=job&oldid=92480031"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "job lot",
+      "ipa": "/dʒɒb lɒt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92480031",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=job&oldid=92480031"
+        },
+        {
+          "sourceRevisionId": "92420573",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=lot&oldid=92420573"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "joy",
+      "ipa": "/d͡ʒɔɪ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92354397",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=joy&oldid=92354397"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "just about",
+      "ipa": "/d͡ʒʌst əˈbaʊ̯t/",
+      "sources": [
+        {
+          "sourceRevisionId": "92193456",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=just&oldid=92193456"
+        },
+        {
+          "sourceRevisionId": "92499110",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=about&oldid=92499110"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "just as",
+      "ipa": "/d͡ʒʌst əz/",
+      "sources": [
+        {
+          "sourceRevisionId": "92193456",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=just&oldid=92193456"
+        },
+        {
+          "sourceRevisionId": "92506490",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=as&oldid=92506490"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "just in time",
+      "ipa": "/d͡ʒʌst ən taɪm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92193456",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=just&oldid=92193456"
+        },
+        {
+          "sourceRevisionId": "92474551",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=in&oldid=92474551"
+        },
+        {
+          "sourceRevisionId": "92514211",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=time&oldid=92514211"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "just now",
+      "ipa": "/ˌd͡ʒʌst ˈnaʊ/",
+      "sources": [
+        {
+          "sourceRevisionId": "91088825",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=just%20now&oldid=91088825"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "just right",
+      "ipa": "/d͡ʒʌst ɹaɪt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92193456",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=just&oldid=92193456"
+        },
+        {
+          "sourceRevisionId": "92121812",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=right&oldid=92121812"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "just so",
+      "ipa": "/ˌd͡ʒʌst ˈsəʊ/",
+      "sources": [
+        {
+          "sourceRevisionId": "90306164",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=just%20so&oldid=90306164"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "just then",
+      "ipa": "/d͡ʒʌst ðɛn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92193456",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=just&oldid=92193456"
+        },
+        {
+          "sourceRevisionId": "91795660",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=then&oldid=91795660"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "key",
+      "ipa": "/kiː/",
+      "sources": [
+        {
+          "sourceRevisionId": "92522805",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=key&oldid=92522805"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "kind",
+      "ipa": "/kaɪnd/",
+      "sources": [
+        {
+          "sourceRevisionId": "92544101",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=kind&oldid=92544101"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "know",
+      "ipa": "/nəʊ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92548818",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=know&oldid=92548818"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "know-how",
+      "ipa": "/ˈnəʊ.haʊ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92134625",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=know-how&oldid=92134625"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "last name",
+      "ipa": "/lɑːst neɪm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92499601",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=last&oldid=92499601"
+        },
+        {
+          "sourceRevisionId": "92548789",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=name&oldid=92548789"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "learn",
+      "ipa": "/lɜːn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92527873",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=learn&oldid=92527873"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "leave",
+      "ipa": "/ˈliːv/",
+      "sources": [
+        {
+          "sourceRevisionId": "92199530",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=leave&oldid=92199530"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "life history",
+      "ipa": "/ˈlaɪ̯f ˈhɪs.tə.ɹi/",
+      "sources": [
+        {
+          "sourceRevisionId": "92496701",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=life&oldid=92496701"
+        },
+        {
+          "sourceRevisionId": "92529058",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=history&oldid=92529058"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "light source",
+      "ipa": "/ˈlaɪt.sɔːs/",
+      "sources": [
+        {
+          "sourceRevisionId": "92119407",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=light%20source&oldid=92119407"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "like",
+      "ipa": "/laɪ̯k/",
+      "sources": [
+        {
+          "sourceRevisionId": "92478111",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=like&oldid=92478111"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "like hell",
+      "ipa": "/laɪ̯k hɛl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92478111",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=like&oldid=92478111"
+        },
+        {
+          "sourceRevisionId": "92543684",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=hell&oldid=92543684"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "limited",
+      "ipa": "/ˈlɪm.ɪ.tɪd/",
+      "sources": [
+        {
+          "sourceRevisionId": "92512386",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=limited&oldid=92512386"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "list",
+      "ipa": "/lɪst/",
+      "sources": [
+        {
+          "sourceRevisionId": "92294365",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=list&oldid=92294365"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "living will",
+      "ipa": "/ˈlɪvɪŋ wɪl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92359724",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=living&oldid=92359724"
+        },
+        {
+          "sourceRevisionId": "92349241",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=will&oldid=92349241"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "local",
+      "ipa": "/ˈləʊ.kl̩/",
+      "sources": [
+        {
+          "sourceRevisionId": "92202640",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=local&oldid=92202640"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "local area network",
+      "ipa": "/ˈləʊklˌɛːɹɪəˌnɛtwəːk/",
+      "sources": [
+        {
+          "sourceRevisionId": "90140254",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=local%20area%20network&oldid=90140254"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "local call",
+      "ipa": "/ˈləʊ.kl̩ kɔːl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92202640",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=local&oldid=92202640"
+        },
+        {
+          "sourceRevisionId": "92545977",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=call&oldid=92545977"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "long",
+      "ipa": "/lɒŋ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92528601",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=long&oldid=92528601"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "look for",
+      "ipa": "/lʊk fɔː/",
+      "sources": [
+        {
+          "sourceRevisionId": "92373450",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=look&oldid=92373450"
+        },
+        {
+          "sourceRevisionId": "92515282",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=for&oldid=92515282"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "look on",
+      "ipa": "/lʊk ɒn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92373450",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=look&oldid=92373450"
+        },
+        {
+          "sourceRevisionId": "92529244",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=on&oldid=92529244"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "look to",
+      "ipa": "/lʊk tuː/",
+      "sources": [
+        {
+          "sourceRevisionId": "92373450",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=look&oldid=92373450"
+        },
+        {
+          "sourceRevisionId": "92548455",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=to&oldid=92548455"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "love",
+      "ipa": "/ˈlʌv/",
+      "sources": [
+        {
+          "sourceRevisionId": "92519055",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=love&oldid=92519055"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "love song",
+      "ipa": "/ˈlʌv sɒŋ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92519055",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=love&oldid=92519055"
+        },
+        {
+          "sourceRevisionId": "92442716",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=song&oldid=92442716"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "low-down",
+      "ipa": "/ˈləʊ.daʊn/",
+      "sources": [
+        {
+          "sourceRevisionId": "89641382",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=low-down&oldid=89641382"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "machine",
+      "ipa": "/məˈʃiːn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92359772",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=machine&oldid=92359772"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "main line",
+      "ipa": "/meɪn laɪn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92543797",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=main&oldid=92543797"
+        },
+        {
+          "sourceRevisionId": "92400043",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=line&oldid=92400043"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "major",
+      "ipa": "/ˈmeɪ.d͡ʒə(ɹ)/",
+      "sources": [
+        {
+          "sourceRevisionId": "92527292",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=major&oldid=92527292"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "make for",
+      "ipa": "/meɪk fɔː/",
+      "sources": [
+        {
+          "sourceRevisionId": "92510000",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=make&oldid=92510000"
+        },
+        {
+          "sourceRevisionId": "92515282",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=for&oldid=92515282"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "make it",
+      "ipa": "/meɪk ɪt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92510000",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=make&oldid=92510000"
+        },
+        {
+          "sourceRevisionId": "92546505",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=it&oldid=92546505"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "make out",
+      "ipa": "/meɪk aʊt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92056415",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=make%20out&oldid=92056415"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "make over",
+      "ipa": "/meɪk ˈəʊ̯.və/",
+      "sources": [
+        {
+          "sourceRevisionId": "92510000",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=make&oldid=92510000"
+        },
+        {
+          "sourceRevisionId": "92529393",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=over&oldid=92529393"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "make up",
+      "ipa": "/ˌmeɪk ˈʌp/",
+      "sources": [
+        {
+          "sourceRevisionId": "92135189",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=make%20up&oldid=92135189"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "man",
+      "ipa": "/ˈmæn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92534311",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=man&oldid=92534311"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "market",
+      "ipa": "/ˈmɑːkɪt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92359799",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=market&oldid=92359799"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "market place",
+      "ipa": "/ˈmɑːkɪt ˈpleɪ̯s/",
+      "sources": [
+        {
+          "sourceRevisionId": "92359799",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=market&oldid=92359799"
+        },
+        {
+          "sourceRevisionId": "92534507",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=place&oldid=92534507"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "matter",
+      "ipa": "/ˈmætə/",
+      "sources": [
+        {
+          "sourceRevisionId": "92495328",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=matter&oldid=92495328"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "mean",
+      "ipa": "/miːn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92361816",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=mean&oldid=92361816"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "medical",
+      "ipa": "/ˈmɛdɪkl̩/",
+      "sources": [
+        {
+          "sourceRevisionId": "89908868",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=medical&oldid=89908868"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "meeting",
+      "ipa": "/ˈmiːtɪŋ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92382565",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=meeting&oldid=92382565"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "meeting place",
+      "ipa": "/ˈmiːtɪŋ ˈpleɪ̯s/",
+      "sources": [
+        {
+          "sourceRevisionId": "92382565",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=meeting&oldid=92382565"
+        },
+        {
+          "sourceRevisionId": "92534507",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=place&oldid=92534507"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "mess",
+      "ipa": "/mɛs/",
+      "sources": [
+        {
+          "sourceRevisionId": "91830154",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=mess&oldid=91830154"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "mike",
+      "ipa": "/ˈmaɪk/",
+      "sources": [
+        {
+          "sourceRevisionId": "92359854",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=mike&oldid=92359854"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "mind",
+      "ipa": "/maɪnd/",
+      "sources": [
+        {
+          "sourceRevisionId": "92199268",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=mind&oldid=92199268"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "minutes",
+      "ipa": "/ˈmɪnɪts/",
+      "sources": [
+        {
+          "sourceRevisionId": "91378617",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=minutes&oldid=91378617"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "model",
+      "ipa": "/ˈmɒd.l̩/",
+      "sources": [
+        {
+          "sourceRevisionId": "92293742",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=model&oldid=92293742"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "mom",
+      "ipa": "/mɒm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92165877",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=mom&oldid=92165877"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "money",
+      "ipa": "/ˈmʌn.i/",
+      "sources": [
+        {
+          "sourceRevisionId": "92515644",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=money&oldid=92515644"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "money market",
+      "ipa": "/ˈmʌn.i ˈmɑːkɪt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92515644",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=money&oldid=92515644"
+        },
+        {
+          "sourceRevisionId": "92359799",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=market&oldid=92359799"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "mood",
+      "ipa": "/muːd/",
+      "sources": [
+        {
+          "sourceRevisionId": "92468106",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=mood&oldid=92468106"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "more and more",
+      "ipa": "/mɔː ˈænd mɔː/",
+      "sources": [
+        {
+          "sourceRevisionId": "92293213",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=more&oldid=92293213"
+        },
+        {
+          "sourceRevisionId": "92460051",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=and&oldid=92460051"
+        },
+        {
+          "sourceRevisionId": "92293213",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=more&oldid=92293213"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "mother",
+      "ipa": "/ˈmʌð.ə/",
+      "sources": [
+        {
+          "sourceRevisionId": "92536533",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=mother&oldid=92536533"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "mother board",
+      "ipa": "/ˈmʌð.ə bɔːd/",
+      "sources": [
+        {
+          "sourceRevisionId": "92536533",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=mother&oldid=92536533"
+        },
+        {
+          "sourceRevisionId": "92282714",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=board&oldid=92282714"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "moved",
+      "ipa": "/muːvd/",
+      "sources": [
+        {
+          "sourceRevisionId": "91483498",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=moved&oldid=91483498"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "much as",
+      "ipa": "/ˈmʌt͡ʃ ˌæz/",
+      "sources": [
+        {
+          "sourceRevisionId": "92362091",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=much%20as&oldid=92362091"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "mum",
+      "ipa": "/mʌm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92143954",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=mum&oldid=92143954"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "music",
+      "ipa": "/ˈmjuːzɪk/",
+      "sources": [
+        {
+          "sourceRevisionId": "92534494",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=music&oldid=92534494"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "name",
+      "ipa": "/neɪm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92548789",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=name&oldid=92548789"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "national",
+      "ipa": "/ˈnaʃ.ə.nəl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92359996",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=national&oldid=92359996"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "natural language",
+      "ipa": "/ˈnæt͡ʃ.(ə.)ɹəl ˈlæŋ.ɡwɪd͡ʒ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92201863",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=natural&oldid=92201863"
+        },
+        {
+          "sourceRevisionId": "92479740",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=language&oldid=92479740"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "network",
+      "ipa": "/ˈnɛt.wɜːk/",
+      "sources": [
+        {
+          "sourceRevisionId": "91802430",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=network&oldid=91802430"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "news",
+      "ipa": "/njuːz/",
+      "sources": [
+        {
+          "sourceRevisionId": "92457775",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=news&oldid=92457775"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "news show",
+      "ipa": "/njuːz ʃəʊ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92457775",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=news&oldid=92457775"
+        },
+        {
+          "sourceRevisionId": "92514341",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=show&oldid=92514341"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "nick",
+      "ipa": "/nɪk/",
+      "sources": [
+        {
+          "sourceRevisionId": "92166173",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=nick&oldid=92166173"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "no",
+      "ipa": "/nəʊ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92547706",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=no&oldid=92547706"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "no more",
+      "ipa": "/nəʊ mɔː/",
+      "sources": [
+        {
+          "sourceRevisionId": "92547706",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=no&oldid=92547706"
+        },
+        {
+          "sourceRevisionId": "92293213",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=more&oldid=92293213"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "no-show",
+      "ipa": "/ˈnoʊ ˌʃoʊ/",
+      "sources": [
+        {
+          "sourceRevisionId": "89325254",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=no-show&oldid=89325254"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "number one",
+      "ipa": "/ˈnʌmbər wʌn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92352866",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=number&oldid=92352866"
+        },
+        {
+          "sourceRevisionId": "92536722",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=one&oldid=92536722"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "of all time",
+      "ipa": "/ɒv ɔːl taɪm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92514247",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=of&oldid=92514247"
+        },
+        {
+          "sourceRevisionId": "92502279",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=all&oldid=92502279"
+        },
+        {
+          "sourceRevisionId": "92514211",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=time&oldid=92514211"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "off and on",
+      "ipa": "/ɒf ˈænd ɒn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92449273",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=off&oldid=92449273"
+        },
+        {
+          "sourceRevisionId": "92460051",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=and&oldid=92460051"
+        },
+        {
+          "sourceRevisionId": "92529244",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=on&oldid=92529244"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "office",
+      "ipa": "/ˈɒf.ɪs/",
+      "sources": [
+        {
+          "sourceRevisionId": "92338692",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=office&oldid=92338692"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "old man",
+      "ipa": "/əʊld ˈmæn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92506436",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=old&oldid=92506436"
+        },
+        {
+          "sourceRevisionId": "92534311",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=man&oldid=92534311"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "on the way",
+      "ipa": "/ɒn ðə weɪ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92529244",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=on&oldid=92529244"
+        },
+        {
+          "sourceRevisionId": "92515770",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=the&oldid=92515770"
+        },
+        {
+          "sourceRevisionId": "92439803",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=way&oldid=92439803"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "on time",
+      "ipa": "/ɒn taɪm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92529244",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=on&oldid=92529244"
+        },
+        {
+          "sourceRevisionId": "92514211",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=time&oldid=92514211"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "one",
+      "ipa": "/wʌn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92536722",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=one&oldid=92536722"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "one by one",
+      "ipa": "/wʌn baɪ wʌn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92536722",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=one&oldid=92536722"
+        },
+        {
+          "sourceRevisionId": "92540373",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=by&oldid=92540373"
+        },
+        {
+          "sourceRevisionId": "92536722",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=one&oldid=92536722"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "one time",
+      "ipa": "/wʌn taɪm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92536722",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=one&oldid=92536722"
+        },
+        {
+          "sourceRevisionId": "92514211",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=time&oldid=92514211"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "open account",
+      "ipa": "/ˈəʊ.pən əˈkaʊnt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92545160",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=open&oldid=92545160"
+        },
+        {
+          "sourceRevisionId": "92138082",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=account&oldid=92138082"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "open house",
+      "ipa": "/ˈəʊ.pən haʊ̯s/",
+      "sources": [
+        {
+          "sourceRevisionId": "92545160",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=open&oldid=92545160"
+        },
+        {
+          "sourceRevisionId": "92338407",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=house&oldid=92338407"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "order of business",
+      "ipa": "/ˈɔː.də ɒv ˈbɪz.nɪs/",
+      "sources": [
+        {
+          "sourceRevisionId": "92487182",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=order&oldid=92487182"
+        },
+        {
+          "sourceRevisionId": "92514247",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=of&oldid=92514247"
+        },
+        {
+          "sourceRevisionId": "92284493",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=business&oldid=92284493"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "order of the day",
+      "ipa": "/ˈɔː.də ɒv ðə deɪ̯/",
+      "sources": [
+        {
+          "sourceRevisionId": "92487182",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=order&oldid=92487182"
+        },
+        {
+          "sourceRevisionId": "92514247",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=of&oldid=92514247"
+        },
+        {
+          "sourceRevisionId": "92515770",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=the&oldid=92515770"
+        },
+        {
+          "sourceRevisionId": "92352567",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=day&oldid=92352567"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "out of the way",
+      "ipa": "/ˈäʊ̯t ɒv ðə weɪ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92456923",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=out&oldid=92456923"
+        },
+        {
+          "sourceRevisionId": "92514247",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=of&oldid=92514247"
+        },
+        {
+          "sourceRevisionId": "92515770",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=the&oldid=92515770"
+        },
+        {
+          "sourceRevisionId": "92439803",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=way&oldid=92439803"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "passion",
+      "ipa": "/ˈpæʃən/",
+      "sources": [
+        {
+          "sourceRevisionId": "92339621",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=passion&oldid=92339621"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "pay",
+      "ipa": "/peɪ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92494630",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=pay&oldid=92494630"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "peace of mind",
+      "ipa": "/ˈpiːs ɒv maɪnd/",
+      "sources": [
+        {
+          "sourceRevisionId": "92547131",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=peace&oldid=92547131"
+        },
+        {
+          "sourceRevisionId": "92514247",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=of&oldid=92514247"
+        },
+        {
+          "sourceRevisionId": "92199268",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=mind&oldid=92199268"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "personal computer",
+      "ipa": "/ˈpɜː.sə.nəl kəmˈpjuː.tə/",
+      "sources": [
+        {
+          "sourceRevisionId": "92521483",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=personal&oldid=92521483"
+        },
+        {
+          "sourceRevisionId": "92503916",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=computer&oldid=92503916"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "phone company",
+      "ipa": "/ˈfəʊ̯n ˈkʌmp(ə)ni/",
+      "sources": [
+        {
+          "sourceRevisionId": "92129891",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=phone&oldid=92129891"
+        },
+        {
+          "sourceRevisionId": "92320992",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=company&oldid=92320992"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "photo",
+      "ipa": "/ˈfəʊ̯.təʊ̯/",
+      "sources": [
+        {
+          "sourceRevisionId": "92367721",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=photo&oldid=92367721"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "place",
+      "ipa": "/ˈpleɪ̯s/",
+      "sources": [
+        {
+          "sourceRevisionId": "92534507",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=place&oldid=92534507"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "place of business",
+      "ipa": "/ˈpleɪ̯s ɒv ˈbɪz.nɪs/",
+      "sources": [
+        {
+          "sourceRevisionId": "92534507",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=place&oldid=92534507"
+        },
+        {
+          "sourceRevisionId": "92514247",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=of&oldid=92514247"
+        },
+        {
+          "sourceRevisionId": "92284493",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=business&oldid=92284493"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "plan",
+      "ipa": "/plæn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92448359",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=plan&oldid=92448359"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "play group",
+      "ipa": "/ple(j) ɡɹuːp/",
+      "sources": [
+        {
+          "sourceRevisionId": "92431609",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=play&oldid=92431609"
+        },
+        {
+          "sourceRevisionId": "92324644",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=group&oldid=92324644"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "please",
+      "ipa": "/pliːz/",
+      "sources": [
+        {
+          "sourceRevisionId": "92396260",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=please&oldid=92396260"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "pleasure",
+      "ipa": "/ˈplɛʒə/",
+      "sources": [
+        {
+          "sourceRevisionId": "91951050",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=pleasure&oldid=91951050"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "point",
+      "ipa": "/pɔɪnt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92538517",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=point&oldid=92538517"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "point man",
+      "ipa": "/pɔɪnt ˈmæn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92538517",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=point&oldid=92538517"
+        },
+        {
+          "sourceRevisionId": "92534311",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=man&oldid=92534311"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "point system",
+      "ipa": "/pɔɪnt ˈsɪstəm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92538517",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=point&oldid=92538517"
+        },
+        {
+          "sourceRevisionId": "92534996",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=system&oldid=92534996"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "policy",
+      "ipa": "/ˈpɒl.ə.si/",
+      "sources": [
+        {
+          "sourceRevisionId": "91440885",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=policy&oldid=91440885"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "pop",
+      "ipa": "/pɒp/",
+      "sources": [
+        {
+          "sourceRevisionId": "92504010",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=pop&oldid=92504010"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "position",
+      "ipa": "/pəˈzɪʃ.ən/",
+      "sources": [
+        {
+          "sourceRevisionId": "92089401",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=position&oldid=92089401"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "post office",
+      "ipa": "/ˈpəʊst ˌɒfɪs/",
+      "sources": [
+        {
+          "sourceRevisionId": "90935542",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=post%20office&oldid=90935542"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "power company",
+      "ipa": "/ˈpaʊ̯ə̯ ˈkʌmp(ə)ni/",
+      "sources": [
+        {
+          "sourceRevisionId": "92385548",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=power&oldid=92385548"
+        },
+        {
+          "sourceRevisionId": "92320992",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=company&oldid=92320992"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "pride",
+      "ipa": "/pɹaɪd/",
+      "sources": [
+        {
+          "sourceRevisionId": "92340671",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=pride&oldid=92340671"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "public office",
+      "ipa": "/ˈpʌblɪk ˈɔfɪs/",
+      "sources": [
+        {
+          "sourceRevisionId": "84451244",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=public%20office&oldid=84451244"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "public service",
+      "ipa": "/ˈpʌb.lɪk ˈsɜː.vɪs/",
+      "sources": [
+        {
+          "sourceRevisionId": "92202864",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=public&oldid=92202864"
+        },
+        {
+          "sourceRevisionId": "92517181",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=service&oldid=92517181"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "put-down",
+      "ipa": "/ˈpʊtˌdaʊn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92045828",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=put-down&oldid=92045828"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "question",
+      "ipa": "/ˈkwɛs.tʃən/",
+      "sources": [
+        {
+          "sourceRevisionId": "92341157",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=question&oldid=92341157"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "rate",
+      "ipa": "/ɹeɪt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92460937",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=rate&oldid=92460937"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "read",
+      "ipa": "/ɹiːd/",
+      "sources": [
+        {
+          "sourceRevisionId": "92536578",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=read&oldid=92536578"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "reading",
+      "ipa": "/ˈɹiːdɪŋ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92048322",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=reading&oldid=92048322"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "reading program",
+      "ipa": "/ˈɹiːdɪŋ ˈpɹəʊ̯ˌɡɹæm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92048322",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=reading&oldid=92048322"
+        },
+        {
+          "sourceRevisionId": "92076138",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=program&oldid=92076138"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "real life",
+      "ipa": "/ɹiːl ˈlaɪ̯f/",
+      "sources": [
+        {
+          "sourceRevisionId": "92487602",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=real&oldid=92487602"
+        },
+        {
+          "sourceRevisionId": "92496701",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=life&oldid=92496701"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "real talk",
+      "ipa": "/ɹiːl tɔːk/",
+      "sources": [
+        {
+          "sourceRevisionId": "92487602",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=real&oldid=92487602"
+        },
+        {
+          "sourceRevisionId": "92058568",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=talk&oldid=92058568"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "real thing",
+      "ipa": "/ɹiːl θɪŋ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92487602",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=real&oldid=92487602"
+        },
+        {
+          "sourceRevisionId": "92374344",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=thing&oldid=92374344"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "real-time operation",
+      "ipa": "/ˈɹiːəltaɪm ˌɒp.əˈɹeɪ.ʃən/",
+      "sources": [
+        {
+          "sourceRevisionId": "91412726",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=real-time&oldid=91412726"
+        },
+        {
+          "sourceRevisionId": "92474631",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=operation&oldid=92474631"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "reason",
+      "ipa": "/ˈɹiːzən/",
+      "sources": [
+        {
+          "sourceRevisionId": "91203457",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=reason&oldid=91203457"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "record",
+      "ipa": "/ˈɹɛk.ɔːd/",
+      "sources": [
+        {
+          "sourceRevisionId": "92094081",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=record&oldid=92094081"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "red light",
+      "ipa": "/ɹɛd laɪt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92535638",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=red&oldid=92535638"
+        },
+        {
+          "sourceRevisionId": "92516009",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=light&oldid=92516009"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "relief",
+      "ipa": "/rɪˈliːf/",
+      "sources": [
+        {
+          "sourceRevisionId": "92526283",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=relief&oldid=92526283"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "rep",
+      "ipa": "/ɹɛp/",
+      "sources": [
+        {
+          "sourceRevisionId": "91304104",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=rep&oldid=91304104"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "report",
+      "ipa": "/ɹɪˈpɔːt/",
+      "sources": [
+        {
+          "sourceRevisionId": "91975122",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=report&oldid=91975122"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "research",
+      "ipa": "/ˈɹiːsɜːt͡ʃ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92202554",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=research&oldid=92202554"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "return key",
+      "ipa": "/ɹɪˈtɜːn kiː/",
+      "sources": [
+        {
+          "sourceRevisionId": "92531394",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=return&oldid=92531394"
+        },
+        {
+          "sourceRevisionId": "92522805",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=key&oldid=92522805"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "review",
+      "ipa": "/ɹɪˈvjuː/",
+      "sources": [
+        {
+          "sourceRevisionId": "91188663",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=review&oldid=91188663"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "ride",
+      "ipa": "/ɹaɪd/",
+      "sources": [
+        {
+          "sourceRevisionId": "92363740",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=ride&oldid=92363740"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "road",
+      "ipa": "/ɾoːɖ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92423314",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=road&oldid=92423314"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "run-in",
+      "ipa": "/ˈɹʌnˌɪn/",
+      "sources": [
+        {
+          "sourceRevisionId": "90170410",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=run-in&oldid=90170410"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "running away",
+      "ipa": "/ˈɹʌnɪŋ əˈweɪ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92533580",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=running&oldid=92533580"
+        },
+        {
+          "sourceRevisionId": "92510284",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=away&oldid=92510284"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "saw",
+      "ipa": "/sɔː/",
+      "sources": [
+        {
+          "sourceRevisionId": "92343686",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=saw&oldid=92343686"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "say",
+      "ipa": "/seɪ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92491148",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=say&oldid=92491148"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "say-so",
+      "ipa": "/ˈseɪˌsəʊ/",
+      "sources": [
+        {
+          "sourceRevisionId": "90362587",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=say-so&oldid=90362587"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "scared",
+      "ipa": "/skɛəd/",
+      "sources": [
+        {
+          "sourceRevisionId": "91415578",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=scared&oldid=91415578"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "scene",
+      "ipa": "/siːn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92543571",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=scene&oldid=92543571"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "school of thought",
+      "ipa": "/skuːl ɒv θɔt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92534680",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=school&oldid=92534680"
+        },
+        {
+          "sourceRevisionId": "92514247",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=of&oldid=92514247"
+        },
+        {
+          "sourceRevisionId": "92366426",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=thought&oldid=92366426"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "school system",
+      "ipa": "/skuːl ˈsɪstəm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92534680",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=school&oldid=92534680"
+        },
+        {
+          "sourceRevisionId": "92534996",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=system&oldid=92534996"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "second hand",
+      "ipa": "/ˌsɛkənd ˈhænd/",
+      "sources": [
+        {
+          "sourceRevisionId": "91615552",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=second%20hand&oldid=91615552"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "second thought",
+      "ipa": "/ˈsɛk.ənd θɔt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92536737",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=second&oldid=92536737"
+        },
+        {
+          "sourceRevisionId": "92366426",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=thought&oldid=92366426"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "security system",
+      "ipa": "/sɪˈkjʊəɹɪti ˈsɪstəm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92412349",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=security&oldid=92412349"
+        },
+        {
+          "sourceRevisionId": "92534996",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=system&oldid=92534996"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "see through",
+      "ipa": "/siː θɹuː/",
+      "sources": [
+        {
+          "sourceRevisionId": "92547524",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=see&oldid=92547524"
+        },
+        {
+          "sourceRevisionId": "92543195",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=through&oldid=92543195"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "see to it",
+      "ipa": "/siː tuː ɪt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92547524",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=see&oldid=92547524"
+        },
+        {
+          "sourceRevisionId": "92548455",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=to&oldid=92548455"
+        },
+        {
+          "sourceRevisionId": "92546505",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=it&oldid=92546505"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "self",
+      "ipa": "/ˈsɛlf/",
+      "sources": [
+        {
+          "sourceRevisionId": "92199587",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=self&oldid=92199587"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "self-service",
+      "ipa": "/sɛlfˈsɜː.vɪs/",
+      "sources": [
+        {
+          "sourceRevisionId": "92426736",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=self-service&oldid=92426736"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "sell",
+      "ipa": "/sɛl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92218678",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=sell&oldid=92218678"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "sense",
+      "ipa": "/sɛns/",
+      "sources": [
+        {
+          "sourceRevisionId": "91646783",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=sense&oldid=91646783"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "service",
+      "ipa": "/ˈsɜː.vɪs/",
+      "sources": [
+        {
+          "sourceRevisionId": "92517181",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=service&oldid=92517181"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "service area",
+      "ipa": "/ˈsɜː.vɪs ˈɛəɹi.ə/",
+      "sources": [
+        {
+          "sourceRevisionId": "92517181",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=service&oldid=92517181"
+        },
+        {
+          "sourceRevisionId": "92411611",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=area&oldid=92411611"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "service call",
+      "ipa": "/ˈsɜː.vɪs kɔːl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92517181",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=service&oldid=92517181"
+        },
+        {
+          "sourceRevisionId": "92545977",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=call&oldid=92545977"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "service department",
+      "ipa": "/ˈsɜː.vɪs dɪˈpɑːtm(ə)nt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92517181",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=service&oldid=92517181"
+        },
+        {
+          "sourceRevisionId": "92289805",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=department&oldid=92289805"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "service program",
+      "ipa": "/ˈsɜː.vɪs ˈpɹəʊ̯ˌɡɹæm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92517181",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=service&oldid=92517181"
+        },
+        {
+          "sourceRevisionId": "92076138",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=program&oldid=92076138"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "service road",
+      "ipa": "/ˈsɜː.vɪs ɾoːɖ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92517181",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=service&oldid=92517181"
+        },
+        {
+          "sourceRevisionId": "92423314",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=road&oldid=92423314"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "shame",
+      "ipa": "/ˈʃeɪ̯m/",
+      "sources": [
+        {
+          "sourceRevisionId": "92475386",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=shame&oldid=92475386"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "ship",
+      "ipa": "/ˈʃɪp/",
+      "sources": [
+        {
+          "sourceRevisionId": "92345732",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=ship&oldid=92345732"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "shock",
+      "ipa": "/ʃɒk/",
+      "sources": [
+        {
+          "sourceRevisionId": "92507854",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=shock&oldid=92507854"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "shop",
+      "ipa": "/ʃɒp/",
+      "sources": [
+        {
+          "sourceRevisionId": "92345810",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=shop&oldid=92345810"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "shot",
+      "ipa": "/ʃɒt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92504278",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=shot&oldid=92504278"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "show-off",
+      "ipa": "/ˈʃəʊ ˌɒf/",
+      "sources": [
+        {
+          "sourceRevisionId": "92126562",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=show-off&oldid=92126562"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "shut-eye",
+      "ipa": "/ˈʃʌtaɪ/",
+      "sources": [
+        {
+          "sourceRevisionId": "86744223",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=shut-eye&oldid=86744223"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "side",
+      "ipa": "/ˈsaɪ̯d/",
+      "sources": [
+        {
+          "sourceRevisionId": "92490358",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=side&oldid=92490358"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "small change",
+      "ipa": "/smɔl ˈt͡ʃeɪnd͡ʒ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92051957",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=small&oldid=92051957"
+        },
+        {
+          "sourceRevisionId": "92319472",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=change&oldid=92319472"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "small talk",
+      "ipa": "/smɔl tɔːk/",
+      "sources": [
+        {
+          "sourceRevisionId": "92051957",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=small&oldid=92051957"
+        },
+        {
+          "sourceRevisionId": "92058568",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=talk&oldid=92058568"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "social media",
+      "ipa": "/ˌsowʃal ˈmid͡ʒa/",
+      "sources": [
+        {
+          "sourceRevisionId": "92047450",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=social%20media&oldid=92047450"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "social service",
+      "ipa": "/ˈsəʊ.ʃəl ˈsɜː.vɪs/",
+      "sources": [
+        {
+          "sourceRevisionId": "92549093",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=social&oldid=92549093"
+        },
+        {
+          "sourceRevisionId": "92517181",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=service&oldid=92517181"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "software",
+      "ipa": "/ˈsɒf(t)ˌwɛə/",
+      "sources": [
+        {
+          "sourceRevisionId": "92296130",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=software&oldid=92296130"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "song",
+      "ipa": "/sɒŋ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92442716",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=song&oldid=92442716"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "source",
+      "ipa": "/sɔːs/",
+      "sources": [
+        {
+          "sourceRevisionId": "92535085",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=source&oldid=92535085"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "source code",
+      "ipa": "/sɔːs kəʊd/",
+      "sources": [
+        {
+          "sourceRevisionId": "92535085",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=source&oldid=92535085"
+        },
+        {
+          "sourceRevisionId": "92369452",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=code&oldid=92369452"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "source program",
+      "ipa": "/sɔːs ˈpɹəʊ̯ˌɡɹæm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92535085",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=source&oldid=92535085"
+        },
+        {
+          "sourceRevisionId": "92076138",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=program&oldid=92076138"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "special",
+      "ipa": "/ˈspɛʃ.əl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92426973",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=special&oldid=92426973"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "steel",
+      "ipa": "/stiːl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92311868",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=steel&oldid=92311868"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "still",
+      "ipa": "/ˈstɪl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92057646",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=still&oldid=92057646"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "study",
+      "ipa": "/ˈstʌd.i/",
+      "sources": [
+        {
+          "sourceRevisionId": "92057708",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=study&oldid=92057708"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "stuff",
+      "ipa": "/stʌf/",
+      "sources": [
+        {
+          "sourceRevisionId": "92057710",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=stuff&oldid=92057710"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "support",
+      "ipa": "/səˈpɔːt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92376902",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=support&oldid=92376902"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "support system",
+      "ipa": "/səˈpɔːt ˈsɪstəm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92376902",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=support&oldid=92376902"
+        },
+        {
+          "sourceRevisionId": "92534996",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=system&oldid=92534996"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "surprise",
+      "ipa": "/sə(ː)ˈpɹaɪ̯z/",
+      "sources": [
+        {
+          "sourceRevisionId": "92062439",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=surprise&oldid=92062439"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "switch",
+      "ipa": "/swɪt͡ʃ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92514995",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=switch&oldid=92514995"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "system call",
+      "ipa": "/ˈsɪstəm kɔːl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92534996",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=system&oldid=92534996"
+        },
+        {
+          "sourceRevisionId": "92545977",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=call&oldid=92545977"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "system program",
+      "ipa": "/ˈsɪstəm ˈpɹəʊ̯ˌɡɹæm/",
+      "sources": [
+        {
+          "sourceRevisionId": "92534996",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=system&oldid=92534996"
+        },
+        {
+          "sourceRevisionId": "92076138",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=program&oldid=92076138"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "take in",
+      "ipa": "/teɪk‿ˈɪn/",
+      "sources": [
+        {
+          "sourceRevisionId": "91785158",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=take%20in&oldid=91785158"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "take on",
+      "ipa": "/ˈteɪ̯k ɒn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92422350",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=take&oldid=92422350"
+        },
+        {
+          "sourceRevisionId": "92529244",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=on&oldid=92529244"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "take out",
+      "ipa": "/ˈteɪ̯k ˈäʊ̯t/",
+      "sources": [
+        {
+          "sourceRevisionId": "92422350",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=take&oldid=92422350"
+        },
+        {
+          "sourceRevisionId": "92456923",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=out&oldid=92456923"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "take to",
+      "ipa": "/ˈteɪ̯k tuː/",
+      "sources": [
+        {
+          "sourceRevisionId": "92422350",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=take&oldid=92422350"
+        },
+        {
+          "sourceRevisionId": "92548455",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=to&oldid=92548455"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "take up",
+      "ipa": "/ˈteɪ̯k ʌp/",
+      "sources": [
+        {
+          "sourceRevisionId": "92422350",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=take&oldid=92422350"
+        },
+        {
+          "sourceRevisionId": "92429014",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=up&oldid=92429014"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "talk",
+      "ipa": "/tɔːk/",
+      "sources": [
+        {
+          "sourceRevisionId": "92058568",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=talk&oldid=92058568"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "talking to",
+      "ipa": "/ˈtɔːkɪŋ tuː/",
+      "sources": [
+        {
+          "sourceRevisionId": "91427641",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=talking&oldid=91427641"
+        },
+        {
+          "sourceRevisionId": "92548455",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=to&oldid=92548455"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "test",
+      "ipa": "/tɛst/",
+      "sources": [
+        {
+          "sourceRevisionId": "92502108",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=test&oldid=92502108"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "test bed",
+      "ipa": "/tɛst bɛd/",
+      "sources": [
+        {
+          "sourceRevisionId": "92502108",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=test&oldid=92502108"
+        },
+        {
+          "sourceRevisionId": "92528793",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=bed&oldid=92528793"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "thank",
+      "ipa": "/ˈθæŋk/",
+      "sources": [
+        {
+          "sourceRevisionId": "92522115",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=thank&oldid=92522115"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "thank you",
+      "ipa": "/ˈθæŋk ˌju/",
+      "sources": [
+        {
+          "sourceRevisionId": "92511578",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=thank%20you&oldid=92511578"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "thanks",
+      "ipa": "/ˈθæŋks/",
+      "sources": [
+        {
+          "sourceRevisionId": "92487551",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=thanks&oldid=92487551"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "the like",
+      "ipa": "/ðə laɪ̯k/",
+      "sources": [
+        {
+          "sourceRevisionId": "92515770",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=the&oldid=92515770"
+        },
+        {
+          "sourceRevisionId": "92478111",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=like&oldid=92478111"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "there",
+      "ipa": "/ðə(ɹ)/",
+      "sources": [
+        {
+          "sourceRevisionId": "92513684",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=there&oldid=92513684"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "think",
+      "ipa": "/ˈθɪŋk/",
+      "sources": [
+        {
+          "sourceRevisionId": "92547632",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=think&oldid=92547632"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "think about",
+      "ipa": "/ˈθɪŋk əˈbaʊ̯t/",
+      "sources": [
+        {
+          "sourceRevisionId": "92547632",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=think&oldid=92547632"
+        },
+        {
+          "sourceRevisionId": "92499110",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=about&oldid=92499110"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "think of",
+      "ipa": "/ˈθɪŋk ɒv/",
+      "sources": [
+        {
+          "sourceRevisionId": "92547632",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=think&oldid=92547632"
+        },
+        {
+          "sourceRevisionId": "92514247",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=of&oldid=92514247"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "thought",
+      "ipa": "/θɔt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92366426",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=thought&oldid=92366426"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "through",
+      "ipa": "/θɹuː/",
+      "sources": [
+        {
+          "sourceRevisionId": "92543195",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=through&oldid=92543195"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "time and a half",
+      "ipa": "/taɪm ˈænd eɪ ˈhɑːf/",
+      "sources": [
+        {
+          "sourceRevisionId": "92514211",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=time&oldid=92514211"
+        },
+        {
+          "sourceRevisionId": "92460051",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=and&oldid=92460051"
+        },
+        {
+          "sourceRevisionId": "92537283",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=a&oldid=92537283"
+        },
+        {
+          "sourceRevisionId": "92430445",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=half&oldid=92430445"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "time out",
+      "ipa": "/taɪm ˈäʊ̯t/",
+      "sources": [
+        {
+          "sourceRevisionId": "92514211",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=time&oldid=92514211"
+        },
+        {
+          "sourceRevisionId": "92456923",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=out&oldid=92456923"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "time series",
+      "ipa": "/taɪm ˈsɪə.ɹiːz/",
+      "sources": [
+        {
+          "sourceRevisionId": "92514211",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=time&oldid=92514211"
+        },
+        {
+          "sourceRevisionId": "92202644",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=series&oldid=92202644"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "time study",
+      "ipa": "/taɪm ˈstʌd.i/",
+      "sources": [
+        {
+          "sourceRevisionId": "92514211",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=time&oldid=92514211"
+        },
+        {
+          "sourceRevisionId": "92057708",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=study&oldid=92057708"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "tour",
+      "ipa": "/tɔː(ɹ)/",
+      "sources": [
+        {
+          "sourceRevisionId": "92041923",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=tour&oldid=92041923"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "train",
+      "ipa": "/ˈtɹeɪn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92507551",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=train&oldid=92507551"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "travel",
+      "ipa": "/ˈtɹævəl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92060148",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=travel&oldid=92060148"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "trip",
+      "ipa": "/tɹɪp/",
+      "sources": [
+        {
+          "sourceRevisionId": "92424585",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=trip&oldid=92424585"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "trust",
+      "ipa": "/tɹʌst/",
+      "sources": [
+        {
+          "sourceRevisionId": "92202581",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=trust&oldid=92202581"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "tv",
+      "ipa": "/tiviː/",
+      "sources": [
+        {
+          "sourceRevisionId": "91718541",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=tv&oldid=91718541"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "type",
+      "ipa": "/taɪp/",
+      "sources": [
+        {
+          "sourceRevisionId": "92545732",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=type&oldid=92545732"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "understand",
+      "ipa": "/ˌʌndəˈstænd/",
+      "sources": [
+        {
+          "sourceRevisionId": "92548821",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=understand&oldid=92548821"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "up and down",
+      "ipa": "/ʌp ˈænd ˈdaʊ̯n/",
+      "sources": [
+        {
+          "sourceRevisionId": "92429014",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=up&oldid=92429014"
+        },
+        {
+          "sourceRevisionId": "92460051",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=and&oldid=92460051"
+        },
+        {
+          "sourceRevisionId": "92512366",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=down&oldid=92512366"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "update",
+      "ipa": "/ˈʌp.deɪt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92517157",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=update&oldid=92517157"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "video",
+      "ipa": "/ˈvɪd.i.əʊ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92347439",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=video&oldid=92347439"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "visit",
+      "ipa": "/ˈvɪzɪt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92392193",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=visit&oldid=92392193"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "voice over",
+      "ipa": "/vɔɪs ˈəʊ̯.və/",
+      "sources": [
+        {
+          "sourceRevisionId": "92199396",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=voice&oldid=92199396"
+        },
+        {
+          "sourceRevisionId": "92529393",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=over&oldid=92529393"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "waiting",
+      "ipa": "/ˈweɪtɪŋ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92427931",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=waiting&oldid=92427931"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "want",
+      "ipa": "/wɒnt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92428020",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=want&oldid=92428020"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "water company",
+      "ipa": "/ˈwɔ.tɚ ˈkʌmp(ə)ni/",
+      "sources": [
+        {
+          "sourceRevisionId": "92439703",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=water&oldid=92439703"
+        },
+        {
+          "sourceRevisionId": "92320992",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=company&oldid=92320992"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "way station",
+      "ipa": "/weɪ ˈsteɪʃən/",
+      "sources": [
+        {
+          "sourceRevisionId": "92439803",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=way&oldid=92439803"
+        },
+        {
+          "sourceRevisionId": "92364524",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=station&oldid=92364524"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "website",
+      "ipa": "/ˈwɛb(ˌ)saɪt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92400886",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=website&oldid=92400886"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "well-being",
+      "ipa": "/wɛlˈbiː.ɪŋ/",
+      "sources": [
+        {
+          "sourceRevisionId": "91815334",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=well-being&oldid=91815334"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "white line",
+      "ipa": "/ˈwaɪt laɪn/",
+      "sources": [
+        {
+          "sourceRevisionId": "92548287",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=white&oldid=92548287"
+        },
+        {
+          "sourceRevisionId": "92400043",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=line&oldid=92400043"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "will",
+      "ipa": "/wɪl/",
+      "sources": [
+        {
+          "sourceRevisionId": "92349241",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=will&oldid=92349241"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "wish",
+      "ipa": "/ˈwɪʃ/",
+      "sources": [
+        {
+          "sourceRevisionId": "92469249",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=wish&oldid=92469249"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "woman",
+      "ipa": "/ˈwʊmən/",
+      "sources": [
+        {
+          "sourceRevisionId": "92481181",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=woman&oldid=92481181"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "wonder",
+      "ipa": "/ˈwʌndə/",
+      "sources": [
+        {
+          "sourceRevisionId": "91806144",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=wonder&oldid=91806144"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "word",
+      "ipa": "/wɜːd/",
+      "sources": [
+        {
+          "sourceRevisionId": "92481404",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=word&oldid=92481404"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "work",
+      "ipa": "/wɜː(ɹ)k/",
+      "sources": [
+        {
+          "sourceRevisionId": "92481462",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=work&oldid=92481462"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "work force",
+      "ipa": "/wɜː(ɹ)k fɔːs/",
+      "sources": [
+        {
+          "sourceRevisionId": "92481462",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=work&oldid=92481462"
+        },
+        {
+          "sourceRevisionId": "92042413",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=force&oldid=92042413"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "worked up",
+      "ipa": "/wɜːkt ʌp/",
+      "sources": [
+        {
+          "sourceRevisionId": "92481476",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=worked&oldid=92481476"
+        },
+        {
+          "sourceRevisionId": "92429014",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=up&oldid=92429014"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "working agreement",
+      "ipa": "/ˈwɜːkɪŋ əˈɡɹiːmənt/",
+      "sources": [
+        {
+          "sourceRevisionId": "92481527",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=working&oldid=92481527"
+        },
+        {
+          "sourceRevisionId": "92415246",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=agreement&oldid=92415246"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    },
+    {
+      "title": "worry",
+      "ipa": "/ˈwʌ.ɹi/",
+      "sources": [
+        {
+          "sourceRevisionId": "92490508",
+          "sourceUrl": "https://en.wiktionary.org/w/index.php?title=worry&oldid=92490508"
+        }
+      ],
+      "license": "CC-BY-SA-4.0",
+      "modified": true
+    }
+  ],
+  "contentHash": "sha256:896c21d191730bc59317392f28f215a01e673ec8bf4e54995f0c22995bf0a74d"
+}
